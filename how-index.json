@@ -1,0 +1,677 @@
+{
+  "sections":
+  {
+    "ae2050dd-16a6-4efb-8a24-3896126be743": {
+      "type": "slideshow",
+      "blocks": {
+        "391fa935-1dc7-426b-a08d-4a220d6ad0a1": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/House of Wise Hero Video.mp4",
+            "caption": "Elevate your wellness routine.",
+            "title": "Empower Yourself To Shine Everyday",
+            "link": "",
+            "button_label": "Show more",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "#ffffff",
+            "seo_h_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "391fa935-1dc7-426b-a08d-4a220d6ad0a1"
+      ],
+      "custom_css": [
+        "#slider-template--16872570519766__ae2050dd-16a6-4efb-8a24-3896126be743 .card {height: 450px !important;}",
+        ".card__text > * {display: block; width: 575px !important;}"
+      ],
+      "settings": {
+        "desktop_height": "40vh",
+        "mobile_height": "60vh",
+        "is_fullwidth": true,
+        "alignment": "horizontal-left align-content--vertical-bottom",
+        "caption_size": "text-size--small",
+        "title_size": "heading-size--large",
+        "spacing": 12,
+        "width": "60%",
+        "button_style": "solid",
+        "remove_margin": false
+      }
+    },
+    "46e5c478-2940-46d3-ada5-c27fdb5379c1": {
+      "type": "marquee",
+      "blocks": {
+        "template--16872570519766__46e5c478-2940-46d3-ada5-c27fdb5379c1-1679596232b7ea9af9-0": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "10,000+ Happy Customers"
+          }
+        },
+        "f7d5e3b7-6992-4d26-96c0-b5e6fd37f37c": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "New Product: Explore the benefits of Daily Libido"
+          }
+        },
+        "794f1794-a088-4793-a392-d9e6759e2d51": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "Fast Free Shipping Orders $60+"
+          }
+        },
+        "e1257eb2-8585-47f4-875c-51f33d8092ae": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "Vegan Friendly. No Animal Testing."
+          }
+        },
+        "89f2f02e-41c0-4c3a-81af-02f3ff0e7213": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "15,000+ Products Successfully Shipped & Delivered"
+          }
+        }
+      },
+      "block_order": [
+        "template--16872570519766__46e5c478-2940-46d3-ada5-c27fdb5379c1-1679596232b7ea9af9-0",
+        "f7d5e3b7-6992-4d26-96c0-b5e6fd37f37c",
+        "794f1794-a088-4793-a392-d9e6759e2d51",
+        "e1257eb2-8585-47f4-875c-51f33d8092ae",
+        "89f2f02e-41c0-4c3a-81af-02f3ff0e7213"
+      ],
+      "settings": {
+        "scroll_direction": "ltr",
+        "speed": 50,
+        "pause_on_hover": true,
+        "horizontal_space": "regular-x-2",
+        "text_size": "text-size--large",
+        "color_background_main": "#ffffff",
+        "color_text_main": "rgba(0,0,0,0)",
+        "remove_top_margin": true,
+        "remove_bottom_margin": false
+      }
+    },
+    "f33dc514-bfdc-48bf-8b46-4abc8816511e": {
+      "type": "slideshow",
+      "blocks": {
+        "1033e788-04e6-4f64-b6b9-82554ceb2b86": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Home-featured-product-new.png",
+            "mobile_image": "shopify:\/\/shop_images\/home-featured-product-mobile.png",
+            "caption": "Featured Product",
+            "title": "Partner is Optional. Pleasure is Not",
+            "link": "shopify:\/\/products\/house-of-wise-sex-kit",
+            "button_label": "Shop Sex Kit",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "1033e788-04e6-4f64-b6b9-82554ceb2b86"
+      ],
+      "custom_css": [
+        ".card__text > * {display: block; width: 420px !important;}",
+        "#slider-template--16872570519766__f33dc514-bfdc-48bf-8b46-4abc8816511e .card__text {max-width: 100%; margin-top: -40px !important;}"
+      ],
+      "settings": {
+        "desktop_height": "40vh",
+        "mobile_height": "60vh",
+        "is_fullwidth": true,
+        "alignment": "horizontal-left align-content--vertical-top",
+        "caption_size": "text-size--large",
+        "title_size": "heading-size--regular",
+        "spacing": 25,
+        "width": "100%",
+        "button_style": "outline",
+        "remove_margin": true
+      }
+    },
+    "7a4c0974-02d5-4f2b-bff7-711fe16a2803": {
+      "type": "featured-collection",
+      "blocks": {
+        "template--16839176192214__7a4c0974-02d5-4f2b-bff7-711fe16a2803-1677543744b3e3838e-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "template--16839176192214__7a4c0974-02d5-4f2b-bff7-711fe16a2803-1677543744b3e3838e-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "e9871351-61c2-4e21-a1e6-4282f40c3e51": {
+          "type": "text",
+          "settings": {
+            "metafield": "custom.product_highlights",
+            "text_color": "text-color--opacity",
+            "text_transform": false
+          }
+        },
+        "template--16839176192214__7a4c0974-02d5-4f2b-bff7-711fe16a2803-1677543744b3e3838e-2": {
+          "type": "quick_buy",
+          "settings": {
+            "show_only_available": false,
+            "variant_default": false,
+            "show_price": false,
+            "unavailable_variants": "hide"
+          }
+        },
+        "81037994-b21d-4d7c-a82e-a22300ce868c": {
+          "type": "product_link",
+          "settings": {
+            "button_label": "View product"
+          }
+        }
+      },
+      "block_order": [
+        "template--16839176192214__7a4c0974-02d5-4f2b-bff7-711fe16a2803-1677543744b3e3838e-1",
+        "template--16839176192214__7a4c0974-02d5-4f2b-bff7-711fe16a2803-1677543744b3e3838e-0",
+        "e9871351-61c2-4e21-a1e6-4282f40c3e51",
+        "template--16839176192214__7a4c0974-02d5-4f2b-bff7-711fe16a2803-1677543744b3e3838e-2",
+        "81037994-b21d-4d7c-a82e-a22300ce868c"
+      ],
+      "custom_css": [
+        ".add-to-cart {flex-grow: 10; background-color: black; color: white;}",
+        ".button--outline {border-color: #000;}",
+        "span.stamped-badge-caption {display: none;}"
+      ],
+      "settings": {
+        "heading": "Customer Favorites",
+        "subheading": "Experience <strong>Everyday <\/strong>Wellness",
+        "section_heading_size": "text-size--large",
+        "section_heading_layout": "section-heading--left section-heading--two-rows",
+        "show_view_all": false,
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 4,
+        "collection": "all",
+        "gutter_decrease": true,
+        "seo_h_tag": "h2"
+      }
+    },
+    "16775207702ce1e8af": {
+      "type": "apps",
+      "blocks": {
+        "8da24870-f134-48f2-baff-9f50348e7c48": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "title": "Real Reviews from Real Customers",
+            "auto_play": true,
+            "take": 30,
+            "color_title": "",
+            "color_star": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "limit_words": 50,
+            "min_rating": "4",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "8da24870-f134-48f2-baff-9f50348e7c48"
+      ],
+      "settings": {
+        "full_width": false,
+        "remove_margin": false
+      }
+    }, 
+"testimonials-section": {
+  "type": "testimonial-carousel",
+  "blocks": {}
+},
+"sections_order": [
+    "testimonials-section"
+],
+    "dafd1101-578e-4426-a358-0786f0ef5dfe": {
+      "type": "testimonials",
+      "blocks": {
+        "template--16872570519766__dafd1101-578e-4426-a358-0786f0ef5dfe-167960523959b0fa64-0": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Author",
+            "author_title": "Customer",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p><p><a href=\"\/products\/cbd-oil-for-sleep\" title=\"CBD Sleep Oil\">Shop Sleep Drops<\/a><\/p>",
+            "image": "shopify:\/\/shop_images\/l-theanine_f366997a-e812-4538-bf29-9dc1c924ad2f.png"
+          }
+        },
+        "92b07959-d8b9-483b-bed8-18e71ce2733a": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Author",
+            "author_title": "Customer",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p><p><a href=\"\/products\/cbd-oil-for-sleep\" title=\"CBD Sleep Oil\">Shop Sleep Drops<\/a><\/p>",
+            "image": "shopify:\/\/shop_images\/l-theanine_f366997a-e812-4538-bf29-9dc1c924ad2f.png"
+          }
+        },
+        "75583558-d9fe-4148-8fbc-ca8667c6c86a": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Author",
+            "author_title": "Customer",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p><p><a href=\"\/products\/cbd-oil-for-sleep\" title=\"CBD Sleep Oil\">Shop Sleep Drops<\/a><\/p>",
+            "image": "shopify:\/\/shop_images\/l-theanine_f366997a-e812-4538-bf29-9dc1c924ad2f.png"
+          }
+        },
+        "98094d1c-91d9-4b4e-bfc8-07e4ef613150": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Author",
+            "author_title": "Customer",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>"
+          }
+        },
+        "40c72f31-239f-40b8-b074-eebe0c603db5": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Author",
+            "author_title": "Customer",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16872570519766__dafd1101-578e-4426-a358-0786f0ef5dfe-167960523959b0fa64-0",
+        "92b07959-d8b9-483b-bed8-18e71ce2733a",
+        "75583558-d9fe-4148-8fbc-ca8667c6c86a",
+        "98094d1c-91d9-4b4e-bfc8-07e4ef613150",
+        "40c72f31-239f-40b8-b074-eebe0c603db5"
+      ],
+      "custom_css": [
+        ".panel,.card {width: 500px; overflow: hidden; margin-right: 30px;}",
+        ".grid-3 {--visible-cols: ;}",
+        ".testimonial__avatar-info {width: 100%;}",
+        ".gutter--large {padding: 20px;}",
+        ".testimonial__avatar-image {\/* border-radius: 50%; *\/ overflow: hidden; width: 120px; \/* background: rgba(0,0,0,.06); *\/}",
+        "p {margin-bottom: 1rem; font-size: 16px; line-height: 1.5em; font-weight: 500;}"
+      ],
+      "settings": {
+        "heading": "Real Reviews from Real Customers",
+        "subheading": "",
+        "section_heading_size": "text-size--large",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "cta_label": "View All Reviews",
+        "cta_url": "shopify:\/\/pages\/reviews",
+        "layout_mode": "slider",
+        "content_alignment": "left",
+        "color_background_main": "#ebe8db",
+        "color_text_main": "#303030",
+        "color_borders_main": "#ebe8db",
+        "border_radius": 30,
+        "color_hide_borders": false,
+        "gutter_decrease": false,
+        "seo_h_tag": "h3"
+      }
+},
+    "1664349396209e8e9d": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "7e980ee7-ccfe-4075-9388-4e4844a0af5d": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop-sex",
+            "image": "shopify:\/\/shop_images\/sex-gummies_16acf6b8-21b7-4757-b0d3-570428b19974.jpg"
+          }
+        },
+        "79b57444-990b-4e8d-aa4e-7d78b0aa6297": {
+          "type": "collection",
+          "settings": {
+            "collection": "stress",
+            "image": "shopify:\/\/shop_images\/Stress_Relief_Products.jpg"
+          }
+        },
+        "15e8e8e8-7e36-4d7f-a052-7bcccf8c3155": {
+          "type": "collection",
+          "settings": {
+            "collection": "sleep",
+            "image": "shopify:\/\/shop_images\/Better_Sleep_Products.jpg"
+          }
+        },
+        "c2d27716-54a5-433f-9c70-d3f32af71461": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop-strength",
+            "image": "shopify:\/\/shop_images\/Energy_Gummies.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "7e980ee7-ccfe-4075-9388-4e4844a0af5d",
+        "79b57444-990b-4e8d-aa4e-7d78b0aa6297",
+        "15e8e8e8-7e36-4d7f-a052-7bcccf8c3155",
+        "c2d27716-54a5-433f-9c70-d3f32af71461"
+      ],
+      "settings": {
+        "heading": "Shop by Benefit",
+        "subheading": "",
+        "section_heading_size": "text-size--large",
+        "section_heading_layout": "section-heading--left section-heading--two-rows",
+        "show_view_all": false,
+        "style": "slider",
+        "layout": "grid-4 grid-lap-3 grid-palm-2",
+        "image_aspect_ratio": "1",
+        "gutter_decrease": true,
+        "seo_h_tag": "h2"
+      }
+    },
+    "4c2a6c05-b066-4447-a746-25239e6c0683": {
+      "type": "promotion-cards",
+      "blocks": {
+        "template--16872570519766__4c2a6c05-b066-4447-a746-25239e6c0683-16796057782ba7cd58-0": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sex-gummies_16acf6b8-21b7-4757-b0d3-570428b19974.jpg",
+            "caption": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop Sex",
+            "button_link": "shopify:\/\/collections\/shop-sex",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "ffbdefaa-63de-463b-87ab-7608d92d8193": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stress_Relief_Products.jpg",
+            "caption": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop Stress",
+            "button_link": "shopify:\/\/collections\/stress",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "c179aa06-263e-48f0-b1c1-af0038bdec26": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Better_Sleep_Products.jpg",
+            "caption": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Show more",
+            "button_link": "shopify:\/\/collections\/sleep",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "seo_h_tag": "h3"
+          }
+        },
+        "3cce1583-d4b8-4d34-a0c1-9af2383d9be8": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Energy_Gummies.jpg",
+            "caption": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop Strength",
+            "button_link": "shopify:\/\/collections\/shop-strength",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "rgba(0,0,0,0)",
+            "color_hide_borders": true,
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "template--16872570519766__4c2a6c05-b066-4447-a746-25239e6c0683-16796057782ba7cd58-0",
+        "ffbdefaa-63de-463b-87ab-7608d92d8193",
+        "c179aa06-263e-48f0-b1c1-af0038bdec26",
+        "3cce1583-d4b8-4d34-a0c1-9af2383d9be8"
+      ],
+      "settings": {
+        "heading": "Shop by Benefit",
+        "subheading": "",
+        "section_heading_size": "text-size--large",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "cta_label": "",
+        "cta_url": "",
+        "layout": "grid-4 grid-portable-2 grid-lap-1",
+        "image_aspect_ratio": "1",
+        "text_alignment": "text-align--center",
+        "caption_size": "regular",
+        "title_size": "100%",
+        "subtitle_size": "regular",
+        "spacing": 18,
+        "button_style": "outline",
+        "border_radius": 0,
+        "gutter_decrease": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "7725cad2-d9e3-4754-b47e-9878aae4ead6": {
+      "type": "text-columns-images",
+      "blocks": {
+        "8286deea-74dc-4440-aa98-fd6664248171": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/house-of-wise-poosh.png",
+            "title": "",
+            "caption": "",
+            "link": "",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "#ffffff",
+            "seo_h_tag": "h3"
+          }
+        },
+        "template--16839176192214__7725cad2-d9e3-4754-b47e-9878aae4ead6-1676935336aa69c6e7-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/house-of-wise-forbes.png",
+            "title": "",
+            "caption": "",
+            "link": "",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "#ffffff",
+            "seo_h_tag": "h3"
+          }
+        },
+        "template--16839176192214__7725cad2-d9e3-4754-b47e-9878aae4ead6-1676935336aa69c6e7-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/house-of-wise-well-plus-good.png",
+            "title": "",
+            "caption": "",
+            "link": "",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "#ffffff",
+            "seo_h_tag": "h3"
+          }
+        },
+        "ee047c29-0982-4f08-806b-ce2784700c86": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/house-of-wise-know.png",
+            "title": "",
+            "caption": "",
+            "link": "",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "#ffffff",
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "8286deea-74dc-4440-aa98-fd6664248171",
+        "template--16839176192214__7725cad2-d9e3-4754-b47e-9878aae4ead6-1676935336aa69c6e7-2",
+        "template--16839176192214__7725cad2-d9e3-4754-b47e-9878aae4ead6-1676935336aa69c6e7-3",
+        "ee047c29-0982-4f08-806b-ce2784700c86"
+      ],
+      "custom_css": [
+        ".gutter--regular {padding: 0;}",
+        ".lazy-image.lazy-image--background {height: 50%;}",
+        ".gutter-bottom--large {padding-bottom: 0;}"
+      ],
+      "settings": {
+        "heading": "As Seen On",
+        "subheading": "",
+        "section_heading_size": "text-size--large",
+        "section_heading_layout": "section-heading--center section-heading--two-rows",
+        "cta_label": "",
+        "cta_url": "",
+        "text_alignment": "text-align--center",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-palm-1",
+        "image_aspect_ratio": "1.5",
+        "border_radius": 0,
+        "gutter_decrease": true,
+        "seo_h_tag": "h3"
+      }
+    },
+    "5cc501d5-fd07-458d-99ee-5f75d92679aa": {
+      "type": "content-toggles",
+      "blocks": {
+        "c21ca225-3e74-4092-a313-fd15b9de6c12": {
+          "type": "text",
+          "settings": {
+            "title": "How do I track my order?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>Yes, you can. Please go to our live chat and choose \"Track my order.\"<\/p><p>You will be asked to enter your order information.<\/p><p>If you are having any problems getting an update from our automated system, please request help directly in the chat.<\/p>"
+          }
+        },
+        "3e6ea90c-3cb2-47a6-b544-ad3e921f9228": {
+          "type": "text",
+          "settings": {
+            "title": "Where do you ship to?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>We ship to all locations within the United States. <\/p><p>We do not ship internationally yet.<\/p>"
+          }
+        },
+        "template--16839176192214__5cc501d5-fd07-458d-99ee-5f75d92679aa-167707081731afcde0-2": {
+          "type": "text",
+          "settings": {
+            "title": "When will my order ship?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>All orders will be shipped within 1 to 2 business days. Once the shipping label is created, you will receive a shipping confirmation via email with tracking details. Please note fulfillment and shipping do not take place outside of business hours or on weekends or holidays. <\/p>"
+          }
+        },
+        "template--16839176192214__5cc501d5-fd07-458d-99ee-5f75d92679aa-167707081731afcde0-0": {
+          "type": "text",
+          "settings": {
+            "title": "Can you get high on CBD?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>Hemp-derived CBD does not produce a high. House of Wise uses only hemp-derived CBD extract that contains &lt;0.3% THC. CBD is not marijuana. <\/p><p>Read more in our post: <a href=\"\/blogs\/news\/does-cbd-get-you-high\" title=\"Does CBD Get You High? The Blunt Truth\">Does CBD Get You High? The Blunt Truth<\/a><\/p>"
+          }
+        },
+        "64a85cbf-4af1-4dde-af68-6cd60527a4d6": {
+          "type": "text",
+          "settings": {
+            "title": "How do I return my order?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>At this time, we do not accept returns. If you have a leftover product, please gift the item to someone or recycle it as you wish. <\/p>"
+          }
+        },
+        "template--16839176192214__5cc501d5-fd07-458d-99ee-5f75d92679aa-167707081731afcde0-1": {
+          "type": "text",
+          "settings": {
+            "title": "Will CBD show up on a drug test?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>You could get a positive drug test from using cannabis products like CBD oil. CBD itself won’t show up on a drug test, but small traces of THC may be found (HOW products are 0.3% THC or less). If you are expecting to take a drug test anytime soon, play it safe and wait to resume CBD usage afterward. <\/p>"
+          }
+        },
+        "a4cb9de4-8e6d-4e82-891c-e1d7432e12cc": {
+          "type": "text",
+          "settings": {
+            "title": "Are your products for women only?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>Although our packaging may say it is made for women, this product can be used by all.<\/p>"
+          }
+        },
+        "6bb9389b-b3a5-4109-9f69-4ac9e68d7683": {
+          "type": "text",
+          "settings": {
+            "title": "Can I travel abroad with my CBD products?",
+            "subtitle": "",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>The U.S. allows the travel of hemp-derived CBD domestically. Internationally, however, laws differ by country, so be sure to check the policies of your destination. For example, most EU countries allow products with 0.2% THC or less. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c21ca225-3e74-4092-a313-fd15b9de6c12",
+        "3e6ea90c-3cb2-47a6-b544-ad3e921f9228",
+        "template--16839176192214__5cc501d5-fd07-458d-99ee-5f75d92679aa-167707081731afcde0-2",
+        "template--16839176192214__5cc501d5-fd07-458d-99ee-5f75d92679aa-167707081731afcde0-0",
+        "64a85cbf-4af1-4dde-af68-6cd60527a4d6",
+        "template--16839176192214__5cc501d5-fd07-458d-99ee-5f75d92679aa-167707081731afcde0-1",
+        "a4cb9de4-8e6d-4e82-891c-e1d7432e12cc",
+        "6bb9389b-b3a5-4109-9f69-4ac9e68d7683"
+      ],
+      "custom_css": [
+        ".sidebar-widget__content {background-color: #ebe8db; border-radius: 20px;}"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "subheading": "Most asked questions about us",
+        "section_heading_size": "text-size--large",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "cta_label": "View more questions",
+        "cta_url": "shopify:\/\/pages\/faqs",
+        "form_enable": true,
+        "form_title": "Anything we missed? We answer fast.",
+        "style": "primary",
+        "open_first": false,
+        "gutter_decrease": true,
+        "seo_h_tag": "h2"
+      }
+    }
+  },
+  "order": [
+    "ae2050dd-16a6-4efb-8a24-3896126be743",
+    "46e5c478-2940-46d3-ada5-c27fdb5379c1",
+    "f33dc514-bfdc-48bf-8b46-4abc8816511e",
+    "7a4c0974-02d5-4f2b-bff7-711fe16a2803",
+    "16775207702ce1e8af",
+    "dafd1101-578e-4426-a358-0786f0ef5dfe",
+    "1664349396209e8e9d",
+    "4c2a6c05-b066-4447-a746-25239e6c0683",
+    "7725cad2-d9e3-4754-b47e-9878aae4ead6",
+    "5cc501d5-fd07-458d-99ee-5f75d92679aa"
+  ]
+}
